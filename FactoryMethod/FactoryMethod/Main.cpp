@@ -15,7 +15,7 @@ class Lion : public Animal
 public:
 	void makeSound() override
 	{
-		std::cout << "Lion Roars\n";
+		std::cout << "Lions Roar\n";
 	}
 };
 
@@ -25,7 +25,7 @@ class Elephant : public Animal
 public:
 	void makeSound() override
 	{
-		std::cout << "Elephant Trumpets\n";
+		std::cout << "Elephants Trumpet\n";
 	}
 };
 
